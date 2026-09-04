@@ -1,0 +1,2 @@
+Esta capa implementa la lóigica de negocio definida en la capa domain, definiendo la logica de los metodos crud para la
+gestión de tareas.
